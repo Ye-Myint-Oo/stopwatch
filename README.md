@@ -1,0 +1,1 @@
+Watch Your Time Spend and Have Record. Stopwatch support to record your time spending and enable to save records in Google Sheet. Currently it only support for window platform.
